@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_archinstaller_FILE /Users/bwr/Qt/Widgets/archinstaller/build/Qt_6_9_0_for_macOS-Debug/archinstaller.app/Contents/MacOS/archinstaller)
+set(__QT_DEPLOY_TARGET_archinstaller_TYPE EXECUTABLE)

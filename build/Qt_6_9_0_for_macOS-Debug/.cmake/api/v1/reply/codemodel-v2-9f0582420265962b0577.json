@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-616b7a9d0eccbd5a23f5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "archinstaller",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "archinstaller::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-archinstaller-Debug-72148a125230fa8266a7.json",
+					"name" : "archinstaller",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "archinstaller_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-archinstaller_autogen-Debug-dd2a1d15a4a574366dc5.json",
+					"name" : "archinstaller_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "archinstaller_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-archinstaller_autogen_timestamp_deps-Debug-c78a6b2ff9aaae0cc489.json",
+					"name" : "archinstaller_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/bwr/Qt/Widgets/archinstaller/build/Qt_6_9_0_for_macOS-Debug",
+		"source" : "/Users/bwr/Qt/Widgets/archinstaller"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
